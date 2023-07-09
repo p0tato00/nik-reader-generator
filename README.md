@@ -1,2 +1,5 @@
 # nik-reader-generator
-A simple reader and generator for NIK
+Saw this project on twitter and thought it was pretty cool so I decided to make it myself.
+
+# demo
+Soon™
